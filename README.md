@@ -7,7 +7,7 @@ Artificial Intelligence/Machine Learning
 Motivated Data Scientist with lots of experience as a fellow student in Arewa Data Science Academy. Passionate about building models that fix problem.
 
 *   🌍  I'm based in Kano, Nigeria
-*   🖥️  See my portfolio at [About Me](http://about.me/abubakarsalisu)
+*   📝  I write on [Medium](http://www.medium.com/@abubakarsalisulabaran)
 *   ✉️  You can contact me at [abubakarsalisulabaran@gmail.com](mailto:abubakarsalisulabaran@gmail.com)
 *   🧠  I'm learning Natural Language Processing
 *   🤝  I'm open to collaborating on Any Interested Project

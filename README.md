@@ -11,9 +11,7 @@ Motivated Data Scientist with lots of experience as a fellow student in Arewa Da
 *   ✉️  You can contact me at [abubakarsalisulabaran@gmail.com](mailto:abubakarsalisulabaran@gmail.com)
 *   🧠  I'm learning Natural Language Processing
 *   🤝  I'm open to collaborating on Any Interested Project
-*   ⚡  Certified Google Data Analytist### Skills
-
-* 
+*   ⚡  Certified Google Data Analytist### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>

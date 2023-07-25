@@ -12,7 +12,7 @@ Motivated Data Scientist with lots of experience as a fellow student in Arewa Da
 *   🤝  I'm open to collaborating on Any Interested Project
 *   ⚡  Certified Google Data Analytist
 *   📝  I write on [Medium](http://www.medium.com/@abubakarsalisulabaran) below are some of my blogpost
-**  [Medium](http://www.medium.com/@abubakarsalisulabaran)
+*     [Medium](http://www.medium.com/@abubakarsalisulabaran)
    ### Skills 
    
 <p align="left">

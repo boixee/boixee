@@ -13,6 +13,10 @@ Motivated Data Scientist with lots of experience as a fellow student in Arewa Da
 *   ⚡  Certified Google Data Analytist
 *   📝  I write on [Medium](http://www.medium.com/@abubakarsalisulabaran) below are some of my blogpost
 *  [The Power of Natural Language Processing](https://medium.com/@abubakarsalisulabaran/the-power-of-natural-language-processing-43c07d4365d0)
+*  [Predictive Precision: Exploring Regression Analysis](https://medium.com/@abubakarsalisulabaran/predictive-precision-exploring-regression-analysis-for-data-analysis-ii-by-abubakar-labaran-salisu-517f71ff1e0a)
+*  []()
+*  []()
+*  []()
    ### Skills 
    
 <p align="left">

@@ -17,7 +17,7 @@ Motivated Data Scientist with lots of experience as a fellow student in Arewa Da
 * - [] [Unlocking the power of data analysis with pandas; A beginner’s guide](https://medium.com/@abubakarsalisulabaran/unlocking-the-power-of-data-analysis-with-pandas-a-beginners-guide-ee4ed8d5afe9)
 * - [] [Data Visualization in Python](https://medium.com/@abubakarsalisulabaran/data-visualization-in-python-by-abubakar-labaran-salisu-580c695e790a)
 * - [] [MACHINE LEARNING: A Historical Overview Of Machine Intelligence](https://medium.com/@abubakarsalisulabaran/machine-learning-a-historical-overview-of-machine-intelligence-by-abubakar-labaran-salisu-2e51ea829b61)
-   ### Skills 
+### Skills 
    
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>

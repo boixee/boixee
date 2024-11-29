@@ -6,7 +6,7 @@ Artificial Intelligence/Machine Learning
 
 Motivated Data Scientist with lots of experience as a fellow student in Arewa Data Science Academy. Passionate about building models that fix problem.
 
-*   🌍  I'm based in Kano, Nigeria
+*   🌍  I'm based in Saint Petersburg, Russia
 *   ✉️  You can contact me at [abubakarsalisulabaran@gmail.com](mailto:abubakarsalisulabaran@gmail.com)
 *   🧠  I'm learning Natural Language Processing
 *   🤝  I'm open to collaborating on Any Interested Project
